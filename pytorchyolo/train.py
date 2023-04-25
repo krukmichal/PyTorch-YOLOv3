@@ -4,7 +4,7 @@ from __future__ import division
 
 import os
 import argparse
-from tqdm import tqdm
+import tqdm
 
 import torch
 from torch.utils.data import DataLoader
